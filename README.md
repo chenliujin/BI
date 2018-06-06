@@ -9,11 +9,11 @@
 ## 时间维度
 
 - id
-- date
-- week 
-- month: varchar(2)
-- quarter
-- year: varchar(4)
+- date # 日
+- week # 周 
+- month: varchar(2) # 月
+- quarter # 季度
+- year: varchar(4) # 年
 
 ---
 

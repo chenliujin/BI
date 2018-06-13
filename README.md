@@ -2,7 +2,7 @@
 
 # OLAP
 
-- cube
+- Cube
 
 ## 维度
 

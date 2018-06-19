@@ -45,3 +45,5 @@
 推荐系统
 
 用户画像
+
+人工智能（Artificial Intelligence）

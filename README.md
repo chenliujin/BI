@@ -3,11 +3,11 @@
 # OLAP
 
 - Cube
-- 上钻
-- 下钻
-- 旋转
-- 切片
-- 切块
+- 上钻（Roll-up）
+- 下钻（Drill-down）
+- 旋转（Pivot）
+- 切片（Slice）
+- 切块（Dice）
 
 ## 维度
 
